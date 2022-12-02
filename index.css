@@ -81,7 +81,7 @@ nav > a {
         rgba(255, 160, 0, 0.3),
         rgba(255, 160, 0, 0.3)
     ),
-    url(/images/hero-image-section-header.png);
+    url(./images/hero-image-section-header.png);
     height: 638px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -144,7 +144,7 @@ div > article > a{
                 rgba(255, 160, 0, 0.3),
                 rgba(255, 160, 0, 0.3)
          ),
-         url(/images/footer-image.png);
+         url(./images/footer-image.png);
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
@@ -317,7 +317,7 @@ div > article > a{
   }
   
   #cabecalho {
-    background-image: url(/images/contato-header.png);
+    background-image: url(./images/contato-header.png);
     padding: 49px 122px 186px;
   }
   
